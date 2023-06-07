@@ -1,4 +1,4 @@
-import 'package:firebase_phone_auth_handler/firebase_phone_auth_handler.dart';
+import 'package:firebase_phone_auth_handler_flave/firebase_phone_auth_handler_flave.dart';
 import 'package:flutter/material.dart';
 import 'package:phone_auth_handler_demo/screens/home_screen.dart';
 import 'package:phone_auth_handler_demo/utils/helpers.dart';
